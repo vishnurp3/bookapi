@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project is a secure Book API built with Spring Boot 3, Java 21, and MySQL, following enterprise-level best
-practices. It provides a RESTful interface to manage book records with role-based access control:
+This project is a secure Book API built with Spring Boot 3, Java 21, and MySQL. It provides a RESTful interface to manage book records with role-based access control:
 
 - **ADMIN**: Can add, update, and delete books.
 - **USER**: Can fetch book details.
